@@ -33,10 +33,10 @@ If your guess is lower then the target value (random color), you will get the fo
 
 If you guess correctly you will see the following alert message. 
 
-Congratulastions! You have guessed the color
+    Congratulastions! You have guessed the color
 
-It took you ${numTries} guesses to finish the game!
+    It took you ${numTries} guesses to finish the game!
 
-Hit OK to see the color in the background.
+    Hit OK to see the color in the background.
 
 And the background of the fieldset along with the "Color Guessing Game" fonts will change to that color. 
