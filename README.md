@@ -1,4 +1,4 @@
-# color-Guessing-game
+# color-guessing-game
 In this game you will choose between the following colors
 
 At the begining of the game you will need to click the button "Click here"
