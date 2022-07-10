@@ -13,7 +13,9 @@ You will see a prompt that states the following.
 
 If you type a color that is not in the array you will get the following alert message.
 
-    Sorry, I don't recongnize your color\n\nPlease try again.
+    Sorry, I don't recongnize your color
+    
+    Please try again.
 
 If your guess is higher then the target value (random color), you will get the following alert message.
 
