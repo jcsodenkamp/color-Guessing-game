@@ -39,6 +39,4 @@ If you guess correctly you will see the following alert message.
 
     It took you ${numTries} guesses to finish the game!
 
-    Hit OK to see the color in the background.
-
-And the background of the fieldset along with the "Color Guessing Game" fonts will change to that color. 
+    Hit OK to see the color in the background change.
