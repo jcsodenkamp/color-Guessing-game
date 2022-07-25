@@ -50,7 +50,8 @@
             console.log(target);
 
             do {
-                guess = prompt(`I am thinking of one of these colors\n\n${COLORS_ARRAY.join(', ')}\n\nWhat color am I thinking of?\n`);
+                let text = prompt(`I am thinking of one of these colors\n\n${COLORS_ARRAY.join(', ')}\n\nWhat color am I thinking of?\n`);
+                guess = text.toLowerCase();
                 if (guess === null) {
                     alert('This game has been aborted.');
                     return;
